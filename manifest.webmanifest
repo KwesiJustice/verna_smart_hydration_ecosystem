@@ -1,0 +1,10 @@
+{
+  "name": "Verna Natural Mineral Water",
+  "short_name": "Verna",
+  "description": "Premium bottled water ordering and delivery platform for Ghana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07172f",
+  "theme_color": "#07172f",
+  "icons": []
+}

@@ -1,0 +1,17 @@
+{
+  "name": "website_build",
+  "version": "1.0.0",
+  "description": "Verna Natural Mineral Water digital commerce workspace with Next.js frontend, NestJS backend, and production planning assets.",
+  "main": "index.js",
+  "scripts": {
+    "dev:frontend": "npm --prefix verna-frontend run dev",
+    "dev:backend": "npm --prefix verna-backend run start:dev",
+    "build:frontend": "npm --prefix verna-frontend run build",
+    "build:backend": "npm --prefix verna-backend run build",
+    "build": "npm run build:frontend && npm run build:backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
